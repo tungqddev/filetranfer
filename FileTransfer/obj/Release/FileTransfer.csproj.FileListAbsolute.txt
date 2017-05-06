@@ -1,0 +1,9 @@
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\bin\Release\FileTransfer.exe.config
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\bin\Release\FileTransfer.exe
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\bin\Release\FileTransfer.pdb
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.Form1.resources
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.Properties.Resources.resources
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.csproj.GenerateResource.Cache
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.exe
+C:\Users\tquach1.USOL-V\Documents\Visual Studio 2015\Projects\FileTransfer\FileTransfer\obj\Release\FileTransfer.pdb
